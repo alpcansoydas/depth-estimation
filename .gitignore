@@ -161,3 +161,6 @@ cython_debug/
 
 images/
 *.DS_Store
+api_images
+*.test_image.jpeg
+*.output_image.png
